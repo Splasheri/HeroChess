@@ -1,0 +1,6 @@
+ColossalCrow	1	1	4	4	4	32	8	BadSign						
+ChampionGoblin	2	1	4	4	8	64	20	Taunt						
+BladeMaster	3	1	6	4	8	96	19	CriticalStrike						
+Grunt	5	5	4	4	4	120	63	Brawler						
+MknightGoldnharl	5	2	8	4	6	128	54	Evasion						
+BloodMage	4	3	4	4	6	144	41	Vampire						

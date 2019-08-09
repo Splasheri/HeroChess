@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 9c1666679f1ee284fa378651e60603d5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vecna
+  fontNames:
+  - Vecna
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98dd99664d29284429ce22bca338b924, type: 3}
+  - {fileID: 12800000, guid: 19a6c6f8f2b4a4a43b7257af6593360e, type: 3}
+  - {fileID: 12800000, guid: 78a4bebe35a4a3247b9b93090bc0f548, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

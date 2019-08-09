@@ -1,0 +1,9 @@
+Jubokko	5	1	6	1	4	24	22	HealingTree	58
+Jubokko	5	1	6	1	4	24	21	HealingTree	59
+Jubokko	5	1	6	1	4	24	21	HealingTree	60
+Jubokko	5	1	6	1	4	24	23	HealingTree	50
+Jubokko	5	1	6	1	4	24	21	HealingTree	51
+Jubokko	5	1	6	1	4	24	22	HealingTree	52
+ygg	3	3	4	4	4	96	39	Heal	42
+ygg	3	3	4	4	4	96	37	Heal	43
+ygg	3	3	4	4	4	96	41	Heal	44

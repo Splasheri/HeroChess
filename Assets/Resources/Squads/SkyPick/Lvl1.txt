@@ -1,0 +1,7 @@
+GodWarriorIshtar	11	4	12	8	4	384	153	HolyStrike	57
+GodWarriorIshtar	11	4	12	8	4	384	153	HolyStrike	61
+Alfadriel	15	10	6	8	4	480	196	AngelBlessing	58
+Alfadriel	15	10	6	8	4	480	194	AngelBlessing	59
+Alfadriel	15	10	6	8	4	480	196	AngelBlessing	60
+Unicorn	11	3	12	10	4	324	119	HolyBlind	49
+Unicorn	11	3	12	10	4	324	117	HolyBlind	53
